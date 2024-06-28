@@ -11,7 +11,7 @@ cd dist
 
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m 'gh-pages: deploy'
 
 git push -f git@github.com:rbobillot/legislatives.git main:gh-pages
 

@@ -1,5 +1,7 @@
 <template>
     <section class="about">
+      <img alt="Vue logo" src="../assets/logo.png">
+    
       <h1>De quoi s'agit-il ?</h1>
       <p>
         Les élections législatives de Juillet 2024 approchent à grands pas.
@@ -53,7 +55,7 @@
   <script setup>
   import router from '../router'
 
-  const goToMatching = () => router.push('/quizz')
+  const goToMatching = () => router.push('/matching')
   </script>
   
   <style lang="scss">

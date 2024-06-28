@@ -3,7 +3,6 @@ import HomeComponent from './components/HomeComponent.vue'
 </script>
 
 <template>
-  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
   <HomeComponent />
 </template>
 

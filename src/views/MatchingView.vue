@@ -6,11 +6,18 @@ import jsonOffers from '../json/offers.json';
 
 const offersLen = jsonOffers.offers.length
 
+const nonEmptyStr = (str) => "" !== str.trim()
+
 const offers = ref(
   jsonOffers
     .offers
     .sort(() => Math.random() - 0.5)
-    .filter(offer => offer.category !== "")
+    .filter(offer => [
+      offer.source,
+      offer.category,
+      offer.description,
+      offer.political_party,
+    ].every(nonEmptyStr))
 );
 
 const partyStats = ref({

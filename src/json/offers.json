@@ -785,7 +785,7 @@
         {
             "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
             "category" : "Energies",
-            "description" : "Bloquer les prix des biens de première nécessité dans l'alimentation, l'énergie et les carburants, annuler la hausse programmée du prix du gaz au 1er juillet, interdire les réductions de puissance d'électricité, interdire les coupures d'électricité, de chaleur et de gaz, instaurer la gratuité des premiers kilowattheures ainsi que supprimer 'la taxe Macron de 10% sur les factures d'énergie'",
+            "description" : "Bloquer les prix des biens de première nécessité dans l'alimentation, l'énergie et les carburants, annuler la hausse programmée du prix du gaz au 1er juillet, interdire les réductions de puissance d'électricité, interdire les coupures d'électricité, de chaleur et de gaz, instaurer la gratuité des premiers kilowattheures ainsi que supprimer 'la taxe de 10% sur les factures d'énergie'",
             "political_party" : "Nouveau Front Populaire",
             "candidate" : ""
         },
@@ -1166,7 +1166,7 @@
         {
             "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
             "category" : "Pouvoir d'achat & salaire",
-            "description" : "Augmenter la prime dite Macron : jusqu'à 10 000 euros par an, sans charge, ni impôt de prime de pouvoir d'achat pour les entreprises et ouvrir la possibilité de verser la prime mensuellement",
+            "description" : "Augmenter la prime de partage de la valeur (PPV) : jusqu'à 10 000 euros par an, sans charge, ni impôt de prime de pouvoir d'achat pour les entreprises et ouvrir la possibilité de verser la prime mensuellement",
             "political_party" : "Ensemble",
             "candidate" : ""
         },
@@ -1201,7 +1201,7 @@
         {
             "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
             "category" : "Pouvoir d'achat & salaire",
-            "description" : "Supprimer la taxe Macron de 10% sur les factures d'énergie",
+            "description" : "Supprimer la taxe de 10% sur les factures d'énergie",
             "political_party" : "Nouveau Front Populaire",
             "candidate" : ""
         },
@@ -1222,7 +1222,7 @@
         {
             "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
             "category" : "Pouvoir d'achat & salaire",
-            "description" : "Annuler les dernières réformes Macron sur le RSA",
+            "description" : "Annuler les dernières réformes sur le RSA",
             "political_party" : "Nouveau Front Populaire",
             "candidate" : ""
         },

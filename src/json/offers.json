@@ -1,0 +1,201 @@
+{
+    "political_parties" : [
+        "Ensemble",
+        "Les Républicains",
+        "Nouveau Front Populaire",
+        "Rassemblement National",
+        "Reconquête"
+    ],
+    "offers" : [
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Compter sur la réforme européenne du droit d'asile pour ouvrir des centres de rétention aux frontières extérieures de l'Europe pour examiner la situation des migrants avant qu'ils n'arrivent sur notre sol",
+            "political_party" : "Ensemble",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Refaire de l’aide sociale à l’enfance et de la gestion des mineurs non-accompagnés une compétence de l’État pour assurer l’égalité de traitement partout sur le territoire national",
+            "political_party" : "Ensemble",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Révision de la Constitution pour mettre en place des plafonds migratoires votés annuellement par le Parlement, l’instruction des demandes d’asiles aux frontières extérieures de l’Union européenne ou dans les consulats et ambassades françaises, l’expulsion du territoire national de tout étranger qui représente un danger pour l’ordre public ou qui a été condamné à une peine d’emprisonnement",
+            "political_party" : "Les Républicains",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Loi de « fermeté au niveau législatif » pour durcir les conditions du regroupement familial, rétablir le délit de séjour irrégulier sur le territoire, conditionner le versement aux étrangers des prestations sociales non contributives (aides personnelles au logement (APL), prestations familiales, etc.) à une durée minimale de présence régulière sur notre territoire national, le conditionnement de l’aide internationale au développement à la coopération en matière de politique migratoire des pays tiers à l’Union européenne et le durcissement des conditions du bénéfice du droit du sol pour l’accès à la nationalité française sur l’ensemble du territoire français (avec la fin de l’automaticité et la nécessité d’une manifestation de la volonté)",
+            "political_party" : "Les Républicains",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Renforcer l'accompagnement social des demandeurs d'asile et autoriser les demandeurs d’asile à exercer un emploi pendant la période d’attente d’examen de leur dossier",
+            "political_party" : "Nouveau Front Populaire",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Faciliter l’accès aux visas, régulariser les travailleurs, étudiants, parents d’enfants scolarisés et instituer la carte de séjour de dix ans comme titre de séjour de référence. Mettre fin des mesures dérogatoires sur l’étude de la demande d’asile",
+            "political_party" : "Nouveau Front Populaire",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Créer un statut de déplacé climatique",
+            "political_party" : "Nouveau Front Populaire",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Améliorer les conditions d’accueil des exilés à Mayotte et supprimer les conditions empêchant le déplacement entre Mayotte et le reste du territoire",
+            "political_party" : "Nouveau Front Populaire",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Créer et sécuriser des voies légales d’immigration et mettre en place une agence de sauvetage en mer et sur terre",
+            "political_party" : "Nouveau Front Populaire",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Garantir l'accès à l’aide médicale d’Etat",
+            "political_party" : "Nouveau Front Populaire",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Arrêt de « l’immigration de peuplement et [du] regroupement familial »",
+            "political_party" : "Rassemblement National",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Traitement des demandes de droit d’asile uniquement à l’étranger",
+            "political_party" : "Rassemblement National",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Réserve des « aides sociales aux Français » ainsi que le conditionnement « à 5 années de travail en France » pour l’accès à ces prestations",
+            "political_party" : "Rassemblement National",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Mise en place d’une « priorité nationale d’accès au logement social et à l’emploi »",
+            "political_party" : "Rassemblement National",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Suppression de « l’autorisation de séjour pour tout étranger n’ayant pas travaillé depuis un an en France »",
+            "political_party" : "Rassemblement National",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Expulsion systématique des clandestins, délinquants et criminels étrangers",
+            "political_party" : "Rassemblement National",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Suppression du droit du sol et la limitation de « l’accès à la nationalité à la seule naturalisation sur des critères de mérite et d’assimilation »",
+            "political_party" : "Rassemblement National",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Suppression du droit du sol et fin du regroupement familial, suppression de la double nationalité pour les non européens et demande de droit d'asile uniquement possible dans des consulats à l'étranger",
+            "political_party" : "Reconquête",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Expulsion de tous les délinquants étrangers, et déchéance de nationalité lors d’un délit sérieux",
+            "political_party" : "Reconquête",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Arrêt temporaire de l'espace Schengen et retour aux frontières nationales",
+            "political_party" : "Reconquête",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Renvoyer les étrangers venus travailler au terme d'une période sans emploi de 6 mois",
+            "political_party" : "Reconquête",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Instaurer une caution obligatoire de 10000 euros pour l’obtention d’un visa pour les étrangers provenant de pays dont sont majoritairement issus les immigrés clandestins",
+            "political_party" : "Reconquête",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Suppression de l'AME pour ne conserver qu’une aide médicale d’urgence",
+            "political_party" : "Reconquête",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Mettre fin au renouvellement quasi-systématique des titres de séjour, interdire définitivement la régularisation de tout étranger entré illégalement sur le territoire français et réinstaurer le délit de séjour irrégulier supprimé en 2012",
+            "political_party" : "Reconquête",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Durcir les conditions de naturalisation, en augmentant la durée minimale de résidence en France de 5 à 10 ans, en exigeant une parfaite maîtrise de la langue, une assimilation réelle et vérifiable ainsi qu’une absence totale de condamnation judiciaire",
+            "political_party" : "Reconquête",
+            "candidate" : ""
+        },
+        {
+            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
+            "category" : "Immigration",
+            "description" : "Mettre fin au dispositif des « mineurs étrangers isolés » et rendre ces enfants à leurs familles",
+            "political_party" : "Reconquête",
+            "candidate" : ""
+        },
+
+        {
+            "source" : "",
+            "category" : "",
+            "description" : "",
+            "political_party" : "",
+            "candidate" : ""
+        }
+    ]
+}

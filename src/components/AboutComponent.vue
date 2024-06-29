@@ -1,6 +1,6 @@
 <template>
     <section class="about">
-      <h1 class="app-title">Polimatch</h1>
+      <!-- <h1 class="app-title">Polimatch</h1> -->
 
       <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
     

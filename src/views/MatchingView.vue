@@ -112,17 +112,17 @@ const sortedPartyStats = computed(() => {
 
 .card-stack .matching-card:nth-child(1) {
   transform: translateY(0px);
-  opacity: 0.8; /* Rend visible la première carte */
+  opacity: 1;
 }
 
 .card-stack .matching-card:nth-child(2) {
   transform: translateY(10px);
-  opacity: 0.9; /* Rend légèrement visible la deuxième carte */
+  opacity: 1;
 }
 
 .card-stack .matching-card:nth-child(3) {
   transform: translateY(20px);
-  opacity: 1; /* Rend légèrement visible la troisième carte */
+  opacity: 1;
 }
 
 .stats {

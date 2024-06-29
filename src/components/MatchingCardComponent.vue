@@ -43,11 +43,11 @@
   
   const emit = defineEmits(['removeCard', 'agree', 'disagree', 'noop']);
   
-  const isTruncated = ref(true);
-  const animationClass = ref('');
+  const isTruncated = ref(props.description.length > 139)
+  const animationClass = ref('')
   
   const truncatedDescription = computed(() => {
-    return isTruncated.value ? `${props.description.slice(0, 140)}...` : props.description;
+    return isTruncated.value ? `${props.description.slice(0, 139)}...` : props.description;
   });
   
   const showFullDescription = () => {
@@ -84,7 +84,7 @@
   
   <style lang="scss" scoped>
   .card {
-    height: 350px;
+    min-height: 350px;
     margin: 20px auto;
     border: 1px solid #ddd;
     border-radius: 10px;

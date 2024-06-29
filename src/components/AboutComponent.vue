@@ -24,9 +24,9 @@
         Vous aurez ensuite le choix de "matcher", selon votre affinité avec la mesure présentée:
       </p>
       <ul>
-        <li>je ne suis pas d'accord</li>
-        <li>je n'ai pas d'avis</li>
-        <li>je suis d'accord</li>
+        <li>❌ : je ne suis pas d'accord</li>
+        <li>❓ : je n'ai pas d'avis</li>
+        <li>❤️ : je suis d'accord</li>
       </ul>
       <p>
         Une fois toutes les mesures revues par vos soins, un calcul statistique sera effectué,<br>

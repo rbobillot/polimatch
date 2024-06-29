@@ -4,6 +4,8 @@ import MatchingCardComponent from '../components/MatchingCardComponent.vue';
 import PartyStatsCard from '../components/PartyStatsCard.vue';
 import jsonOffers from '../json/offers.json';
 
+const offersLen = jsonOffers.offers.length
+
 const offers = ref(
   jsonOffers
     .offers
@@ -61,6 +63,7 @@ const sortedPartyStats = computed(() => {
 <template>
   <main>
     <div class="container">
+      <div v-if=offers.length class="progression">{{ partyStats.TOTAL + 1 }} / {{ offersLen }}</div>
       <div v-if="offers.length > 0" class="card-stack">
         <MatchingCardComponent
           v-for="(offer, index) in offers.slice(0, 3)"

@@ -1,6 +1,8 @@
 <template>
     <section class="about">
-      <img alt="Vue logo" src="../assets/logo.png">
+      <h1 class="app-title">Polimatch</h1>
+
+      <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
     
       <h1>De quoi s'agit-il ?</h1>
       <p>
@@ -60,7 +62,7 @@
   
   <style lang="scss">
   .about {
-    padding: 2rem;
+    padding: 0rem;
     max-width: 1000px;
     margin: 0 auto;
     font-family: Arial, sans-serif;
@@ -70,6 +72,13 @@
       font-size: 2rem;
       margin-bottom: 1rem;
       color: var(--french-blue);
+    }
+
+    .app-title {
+      font-size: 4em;
+      padding: 10px;
+      padding-bottom: 20px;
+      color: var(--french-red);
     }
   
     p {

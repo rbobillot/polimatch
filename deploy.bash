@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m 'gh-pages: deploy'
 
-git push -f git@github.com:rbobillot/legislatives.git main:gh-pages
+git push -f git@github.com:rbobillot/polimatch.git main:gh-pages
 
 cd -
 

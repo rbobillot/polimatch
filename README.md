@@ -1,4 +1,4 @@
-# Legislatives
+# Polimatch
 
 ## What is it ?
 A Tinder-like webapp, allowing citizens to match political programs, by voting on decontextualized offers

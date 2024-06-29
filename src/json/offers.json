@@ -496,7 +496,7 @@
         {
             "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
             "category" : "Finances publiques",
-            "description" : "Baisse de la TVA de 20% à 5,5% sur les produits énergétiques (une proposition reprise par Jordan Bardella lors de la campagne des législatives 2024)",
+            "description" : "Baisse de la TVA de 20% à 5,5% sur les produits énergétiques",
             "political_party" : "Rassemblement National",
             "candidate" : ""
         },
@@ -510,7 +510,7 @@
         {
             "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
             "category" : "Finances publiques",
-            "description" : "Exonération de cotisations patronales sur « une hausse des salaires de 10% (jusqu’à 3 smic)",
+            "description" : "Exonération de cotisations patronales sur une hausse des salaires de 10% (jusqu’à 3 smic)",
             "political_party" : "Rassemblement National",
             "candidate" : ""
         },
@@ -1145,13 +1145,6 @@
         {
             "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
             "category" : "Pouvoir d'achat & salaire",
-            "description" : "",
-            "political_party" : "Ensemble",
-            "candidate" : ""
-        },
-        {
-            "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
-            "category" : "Pouvoir d'achat & salaire",
             "description" : "Mettre en place une complémentaire santé publique à 1 euro pour ceux qui ne sont pas couverts par une mutuelle",
             "political_party" : "Ensemble",
             "candidate" : ""
@@ -1580,7 +1573,7 @@
         {
             "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
             "category" : "Santé",
-            "description" : "Lutter contre es déserts gynécologiques dans le cadre du cumul emploi-retraite pour les médecins",
+            "description" : "Lutter contre les déserts gynécologiques dans le cadre du cumul emploi-retraite pour les médecins",
             "political_party" : "Rassemblement National",
             "candidate" : ""
         },
@@ -1594,7 +1587,7 @@
         {
             "source" : "https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#lucivd",
             "category" : "Santé",
-            "description" : "Embauche par l’État embauche de 1 000 médecins pour les envoyer comme salariés dans les déserts médicaux",
+            "description" : "Embauche par l’État de 1 000 médecins pour les envoyer comme salariés dans les déserts médicaux",
             "political_party" : "Reconquête",
             "candidate" : ""
         },
